@@ -1,0 +1,9 @@
+.endtopcontaainer {
+  padding-top: 2rem;
+  height: 63%;
+}
+
+.endtopcontaainer_input1::placeholder {
+  color: #d2d4da;
+  letter-spacing: normal;
+}

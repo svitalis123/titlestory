@@ -5,6 +5,7 @@ import { VscUnlock } from 'react-icons/vsc';
 import { MdKeyboardArrowDown } from 'react-icons/md';
 import styles from '../css/Header.module.css';
 
+// Header function exported as default renders header content
 export default function Header() {
   return (
     <header className={styles.header}>

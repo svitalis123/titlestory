@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from '../css/MiddleTop.module.css';
 
+// Middle top section exported as default containing explanation of the test details
 export default function MiddleTop() {
   return (
     <div className={styles.homemiddlecontainer}>
