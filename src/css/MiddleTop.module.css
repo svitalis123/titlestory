@@ -1,0 +1,19 @@
+.homemiddlecontainer {
+  padding-top: 1rem;
+}
+
+.homemiddlecontainerh21 {
+  font-size: 32px;
+  padding-bottom: 0.5rem;
+  color: #0d121c;
+}
+
+.homemiddlecontainerhr1 {
+  border-top: #f2f3f5 1px solid;
+}
+
+.homemiddlecontainerp1 {
+  font-size: 13px;
+  color: #4d5562;
+  padding-top: 1rem;
+}

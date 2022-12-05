@@ -1,0 +1,86 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 16px;
+  font-family: inter;
+  font-weight: 400;
+  padding: 1rem 1rem;
+  border-top: 2px solid #dbdcdd;
+  margin-top: 5px;
+}
+
+.headerdiv1 {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.headerdiv2 {
+  display: flex;
+  align-items: center;
+}
+
+.headerdiv1nav {
+  display: flex;
+  align-items: center;
+}
+
+.headerfirsticon {
+  color: #6c727f;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.headersecondiconbook {
+  color: #9da3ae;
+  padding-right: 0.8rem;
+  font-size: 30px;
+}
+
+.headernavbutton1 {
+  color: #9da3ae;
+  font-size: 14px;
+  text-decoration: underline;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.headernavbuttons {
+  color: #acb1ba;
+  font-size: 14px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.headernavspans {
+  padding: 0.1rem 1rem;
+  font-size: 14px;
+  color: #e5e7eb;
+}
+
+.headerseconddivpublishbtn {
+  font-size: 14px;
+  color: #3565a9;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.headerbutton2diviconlock {
+  color: #e5e7eb;
+  font-size: 24px;
+  padding-right: 0.5rem;
+}
+
+.headerbuton2div2caretdown {
+  font-size: 30px;
+  padding-left: 0.5rem;
+}
+
+.headerdiv2 > button {
+  display: flex;
+  align-items: center;
+}
